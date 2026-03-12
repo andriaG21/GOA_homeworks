@@ -72,7 +72,7 @@ print(my_surname == your_surname)
 
 # 8)
 
-temprature = int(input('enter temprature :'))
+temprature = float(input('enter temprature :'))
 co_sistem = temprature > 30
 print(co_sistem)
 
