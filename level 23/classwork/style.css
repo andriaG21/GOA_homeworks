@@ -1,0 +1,27 @@
+#div1{
+    color: rgb(105, 51, 4);
+}
+
+#div2{
+    color: ff00ff ;
+}
+
+#div3{
+    color: aqua;
+}
+
+#p1{
+    color: green;
+    text-decoration: underline;
+    text-decoration: overline;
+}
+
+#p2{
+    color: pink;
+    text-decoration: overline;
+}
+
+#p3{
+    color: blue;
+    text-decoration: line-through;
+}

@@ -1,0 +1,12 @@
+@import url('@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');');
+@import url("@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');");
+
+p{
+    font-family: "Oswald" ;
+}
+
+p:hover{
+    font-family: "Roboto+Mono";
+    color: green;
+    text-shadow: 4px 4px 4px;
+}
